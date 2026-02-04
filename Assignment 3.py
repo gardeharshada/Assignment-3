@@ -2,7 +2,8 @@
 ch = input("Enter an alphabet:")
 
 if ch.lower() in ['a', 'e', 'i', 'o', 'u']:
-    print("The alphabet is a Vowel")
+    print("The alphabet is a Vowel.")
 else:
 
-    print("The alphabet is a consonant")    
+    print("The alphabet is a consonant.")    
+
